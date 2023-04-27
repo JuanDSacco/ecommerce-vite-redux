@@ -1,0 +1,6 @@
+export const ADD_PRODUCT = 'ADDPRODUCT';
+export const REMOVE_PRODUCT = 'REMOVEPRODUCT';
+export const CLEAR_CART = 'CLEARCART';
+export const TOTAL_PRICE = 'TOTALPRICE';
+export const DELETE_PER_UNIT = 'DELETEPERUNIT';
+export const ITEM_QUANTITY = 'ITEMQUANTITY';
